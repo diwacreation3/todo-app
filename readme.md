@@ -1,7 +1,7 @@
 # To-Do App
 Simple Todo app using HTML CSS and Javascript.
 
-Live: 
+Live: https://diwacreation3.github.io/todo-app/
 
 ![](/img/todo.png)
 
